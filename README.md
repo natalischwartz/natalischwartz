@@ -19,7 +19,7 @@ Decoronce-cortinas : https://decoronce-cortinas1.netlify.app/
 Ecommerce-mantas : https://ecommerce-mantas.netlify.app/
 
 ### Contacto:
-- Linked in : www.linkedin.com/in/natali-schwartz-36750168
+- Linked in : www.linkedin.com/in/natali-schwartz
 
 
 
