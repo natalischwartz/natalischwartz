@@ -14,7 +14,7 @@ Mi nombre es Natali , soy de Argentina y actualmente estoy buscando trabajo como
 
 Portfolio Natali : https://portfolio-natali.netlify.app/
 
-To do list : https://to-do-list-natali.netlify.app/
+To do list : https://tareas-pendientes-natali.netlify.app/
 
 Decoronce-cortinas : https://decoronce-cortinas1.netlify.app/
 
