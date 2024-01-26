@@ -12,7 +12,7 @@ Mi nombre es Natali , soy de Argentina y actualmente estoy buscando trabajo como
 - En este momento estoy haciendo un curso de Full stack Nodejs en el programa CODO A CODO.
 - Comparto algunos de mis proyectos:
 
-Portfolio Natali : https://natali-schwartz-portfolio.netlify.app/
+Portfolio Natali : https://https://portfolio-natali-schwartz.vercel.app/
 
 To do list : https://tareas-pendientes-natali.netlify.app/
 
