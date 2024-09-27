@@ -16,7 +16,7 @@ Portfolio Natali : https://portfolio-natali-schwartz.vercel.app/
 
 To do list : https://tareas-pendientes-natali.netlify.app/
 
-Decoronce-cortinas : https://decoronce-cortinas1.netlify.app/
+Finda GYM Website : https://finda-gym-website.vercel.app/
 
 Ecommerce-mantas : https://ecommerce-mantas.netlify.app/
 
