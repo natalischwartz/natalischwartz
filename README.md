@@ -18,7 +18,6 @@ To do list : https://tareas-pendientes-natali.netlify.app/
 
 Finda GYM Website : https://finda-gym-website.vercel.app/
 
-Ecommerce-mantas : https://ecommerce-mantas.netlify.app/
 
 ### Contacto:
 - Linked in : www.linkedin.com/in/natali-schwartz
