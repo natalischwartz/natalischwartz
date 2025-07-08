@@ -4,18 +4,7 @@ Mi nombre es Natali , soy licenciada en administración de empresas y Frontend D
 
 ### Tecnologías y herramientas que utilizo:
 
-![html5-icon](https://github.com/user-attachments/assets/64b4c48d-0d4b-46e9-b3cb-55dc74a81309)
-![css-icon](https://github.com/user-attachments/assets/c3037d93-dfed-4cc1-88ed-508a7212da14)
-![bs-icon](https://github.com/user-attachments/assets/2e248d03-5e39-4301-af48-cd35065f106b)
-![js-icon](https://github.com/user-attachments/assets/7fe33c49-6e1f-4d67-a7f6-5337f8912ac2)
-![image](https://github.com/user-attachments/assets/12bd4d96-59bf-4685-8ab0-a1a48992a01d)
-![nodejs-icon](https://github.com/user-attachments/assets/e2f5a32a-4097-48a5-a1d0-4ea4b3aef9ee)
-![github-icon](https://github.com/user-attachments/assets/6ca2d0f3-2ca7-4008-bccf-c0efec94c8a1)
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/30ded5d9-a2f6-4558-a9dd-5b2e155f1297)
 
 
 ### Sobre mi:
